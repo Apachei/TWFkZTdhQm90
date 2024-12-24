@@ -13,9 +13,6 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 conn = sqlite3.connect('info.db')
 cursor = conn.cursor()
 
-# Secret key for JWT encoding/decoding
-SECRET_KEY = 'bG9sbWFu'  # your secret key
-
 # A simple in-memory session store (you can use a database for better persistence)
 sessions = {}
 
