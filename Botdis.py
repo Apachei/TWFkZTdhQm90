@@ -1,3 +1,4 @@
+# Source code for my bot id: 1321183834925957195
 import discord
 import sqlite3
 import jwt
