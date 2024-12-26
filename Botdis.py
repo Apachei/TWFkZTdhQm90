@@ -1,6 +1,8 @@
 # LOL MAN YOU THOUGHT I WOULD LEAVE MY SECRET DIRECTLY TO GITHGUB LIKE THAT KEKW
 
-https://youtu.be/dQw4w9WgXcQ
+Take this motivation
+
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDRvOXZybGMxYzJ6ajNoNGczeno1NjR1ejRzZWloYzZ2NWF0OTN5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g7GKcSzwQfugw/giphy.gif
 
 
 KEEP SEARCHING AROUND MY FRIENDO :V
